@@ -48,10 +48,10 @@ thyroid_cancer_prediction/
 ## 🚀 How to Run
 
 1. Clone the repo:
-   ```bash
+```bash
    git clone https://github.com/your-username/thyroid-cancer-prediction.git
    cd thyroid-cancer-prediction
-   ```
+```
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
@@ -71,4 +71,3 @@ Choose input method:
 
 ### 📌 Author
 Shravani Bande
-GitHub
